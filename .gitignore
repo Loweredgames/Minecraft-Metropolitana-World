@@ -1,11 +1,5 @@
-
-/logs
-/.fabric
-saves/Metro/DIM1/data/DistantHorizons.sqlite
 *.sqlite
-saves/Metro/DIM1/data/DistantHorizons.sqlite-wal
-saves/Metro/DIM1/data/DistantHorizons.sqlite-shm
-saves/Metro/DIM-1/data/DistantHorizons.sqlite-wal
-saves/Metro/DIM-1/data/DistantHorizons.sqlite-shm
-saves/Metro/data/DistantHorizons.sqlite-wal
-saves/Metro/data/DistantHorizons.sqlite-shm
+data/DistantHorizons.sqlite-shm
+data/DistantHorizons.sqlite-wal
+/DIM-1/data
+/DIM1/data

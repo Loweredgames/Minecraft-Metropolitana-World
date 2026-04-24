@@ -3,7 +3,7 @@ Name: Metropolitana World
 
 Edition: JAVA EDITION
 
-Release: JE-1.20.1-Metropolitana_World:BUILDING:20.03.2024.41829a
+Release: JE-1.21.1-Metropolitana_World:BUILDING:20.03.2024.41829a
 
 Resource_pack: FALSE
 
